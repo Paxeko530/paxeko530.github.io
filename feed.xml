@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 13 Sep 2026 05:27:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 18:52:13 GMT</lastBuildDate>
+  <item>
+    <title>A SATA hard drive docking station for home server projects</title>
+    <link>https://paxeko530.github.io/posts/sata-hard-drive-docking-station-for-home-server-projects.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/sata-hard-drive-docking-station-for-home-server-projects.html</guid>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Choosing the right SATA hard drive docking station can significantly enhance your home server project by allowing you to easily connect and manage multiple hard drives without the need for a dedicated computer. Whether you&#39;re looking to upgrade your storage capacity, back up your</description>
+    <enclosure url="https://paxeko530.github.io/img/sata-hard-drive-docking-station-for-home-server-projects.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Choosing the best desk lamp for eye comfort during long work days</title>
+    <link>https://paxeko530.github.io/posts/best-desk-lamp-for-eye-comfort.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/best-desk-lamp-for-eye-comfort.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Creating a comfortable and productive work environment is crucial, especially for those who spend long hours at their desk. One key aspect of a comfortable workspace is proper lighting, which can significantly impact your eye health and overall wellbeing. A wellchosen desk lamp c</description>
+    <enclosure url="https://paxeko530.github.io/img/best-desk-lamp-for-eye-comfort.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Picking a mechanical keyboard for long typing sessions</title>
+    <link>https://paxeko530.github.io/posts/mechanical-keyboard-for-long-typing-sessions.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/mechanical-keyboard-for-long-typing-sessions.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Choosing the right mechanical keyboard is crucial for anyone who spends long hours typing. Whether you&#39;re a professional writer, a programmer, or simply someone who needs a reliable input device for your home office, the right mechanical keyboard can make a world of difference. H</description>
+    <enclosure url="https://paxeko530.github.io/img/mechanical-keyboard-for-long-typing-sessions.png" type="image/png"/>
+  </item>
   <item>
     <title>Network-attached storage basics for beginners</title>
     <link>https://paxeko530.github.io/posts/network-attached-storage-basics-for-beginners.html</link>
@@ -22,6 +49,15 @@
     <category>Freelance Tools</category>
     <description>Quarterly estimated taxes for freelancers can seem like a daunting task, but understanding the basics can help you manage your financial obligations more effectively. As a freelancer, you are responsible for paying your own taxes, including income tax, selfemployment tax, and any</description>
     <enclosure url="https://paxeko530.github.io/img/quarterly-estimated-taxes-for-freelancers-basics.png" type="image/png"/>
+  </item>
+  <item>
+    <title>When a RAM upgrade helps you run larger local LLMs</title>
+    <link>https://paxeko530.github.io/posts/ram-upgrade-for-running-larger-local-llms.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/ram-upgrade-for-running-larger-local-llms.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Running larger language models (LLMs) locally can be a game changer for productivity and privacy, but it often comes with the challenge of high memory requirements. If your system is struggling to run these models smoothly, a RAM upgrade might be the solution you&#39;re looking for. </description>
+    <enclosure url="https://paxeko530.github.io/img/ram-upgrade-for-running-larger-local-llms.png" type="image/png"/>
   </item>
   <item>
     <title>Time blocking for freelancers: a system that actually works</title>
@@ -238,41 +274,5 @@
     <category>Self-Hosting &amp; Local AI</category>
     <description>Local language models (LLMs) have gained significant traction in recent years for their ability to provide realtime assistance without the need for an internet connection. As a coding professional, you can leverage these models to enhance your productivity by integrating them dir</description>
     <enclosure url="https://paxeko530.github.io/img/local-llm-coding-assistant.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Building a low-power home server with a mini PC</title>
-    <link>https://paxeko530.github.io/posts/low-power-home-server-mini-pc.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/low-power-home-server-mini-pc.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Setting up a home server can provide numerous benefits, such as centralized storage, backup solutions, media streaming, and remote access to your files and applications. However, not everyone wants a bulky, powerhungry desktop computer to serve as their home server. That&#39;s where </description>
-    <enclosure url="https://paxeko530.github.io/img/low-power-home-server-mini-pc.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Raspberry Pi versus a mini PC for self-hosting</title>
-    <link>https://paxeko530.github.io/posts/raspberry-pi-vs-mini-pc-self-hosting.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/raspberry-pi-vs-mini-pc-self-hosting.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>When it comes to setting up a home server for personal use, you have several options, but two of the most popular choices are the Raspberry Pi and a mini PC. Both devices are compact and affordable, but they cater to different needs and come with distinct advantages and limitatio</description>
-    <enclosure url="https://paxeko530.github.io/img/raspberry-pi-vs-mini-pc-self-hosting.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Adding fast SSD storage to a home server</title>
-    <link>https://paxeko530.github.io/posts/ssd-storage-for-a-home-server.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/ssd-storage-for-a-home-server.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Adding fast SSD storage to a home server is a great way to boost performance and expand your storage capacity, especially if you&#39;re dealing with large files or running resourceintensive applications. Whether you&#39;re a gamer, a developer, or someone who simply wants to centralize a</description>
-    <enclosure url="https://paxeko530.github.io/img/ssd-storage-for-a-home-server.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Do you need a UPS for your home server?</title>
-    <link>https://paxeko530.github.io/posts/ups-for-a-home-server.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/ups-for-a-home-server.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>A home server can be a valuable addition to your home network, providing centralized storage, backup solutions, media streaming, and more. However, these servers are often left running 24/7, which means they need a reliable power supply. Uninterruptible Power Supplies (UPS) are d</description>
-    <enclosure url="https://paxeko530.github.io/img/ups-for-a-home-server.png" type="image/png"/>
   </item>
 </channel></rss>
