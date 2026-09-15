@@ -115,6 +115,15 @@ article.post p{margin:0 0 1.1em}
 .faq details p{margin:14px 0}
 .gear{margin:40px 0;padding:24px;border:1px solid var(--line);border-radius:var(--radius);background:var(--soft)}
 .gear h2{margin:0 0 16px;font-size:22px}.gear-list{display:flex;flex-direction:column;gap:12px}
+.cmp-wrap{overflow-x:auto;margin:20px 0 30px;border:1px solid var(--line);border-radius:var(--radius)}
+.cmp{width:100%;border-collapse:collapse;min-width:420px}
+.cmp th,.cmp td{padding:14px 16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+.cmp th{background:var(--soft);font-family:Inter;font-weight:700;font-size:15px}
+.cmp td:first-child,.cmp th:first-child{border-right:1px solid var(--line)}
+.cmp ul{margin:0;padding-left:18px;font-size:14px;color:var(--muted)}
+.cmp ul li{margin:3px 0}
+.cmp-cta td{border-bottom:0;padding-top:6px}
+.cmp .btn{padding:9px 14px;font-size:13.5px}
 .mid-cta{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:32px 0;padding:16px 20px;border:1px dashed var(--line);border-radius:var(--radius)}
 .mid-cta p{margin:0;font-size:15px}
 .mid-cta .btn{padding:10px 16px;font-size:14px;flex:none}
@@ -158,6 +167,7 @@ footer.site a{color:var(--muted)}footer.site nav{display:flex;gap:16px;flex-wrap
 <button id="copylink" type="button">Copy link</button>
 </div>
 <img class="hero-img" src="https://paxeko530.github.io/img/llm-quantization-explained.png" width="1200" height="630" alt="LLM quantization explained without the jargon" fetchpriority="high">
+
 
 <nav class="toc" aria-label="On this page"><p class="toc-title">On this page</p><ol><li><a href="#what-is-quantization">What is Quantization?</a></li><li><a href="#why-is-quantization-important-for-llms">Why is Quantization Important for LLMs?</a></li><li><a href="#types-of-quantization">Types of Quantization</a></li><li><a href="#quantization-formats-and-tools">Quantization Formats and Tools</a></li><li><a href="#challenges-and-limitations-of-quantization">Challenges and Limitations of Quantization</a></li></ol></nav>
 <p>Quantum computing and artificial intelligence are two of the most exciting frontiers in technology today, each promising to revolutionize how we solve complex problems. However, when it comes to large language models (LLMs), there&#39;s another term that&#39;s gaining traction: quantization. Quantization is a technique used to reduce the computational and storage requirements of these models, making them more accessible and efficient. In this article, we&#39;ll explore what quantization is, how it works, and why it&#39;s so important for deploying large language models, especially in environments where computational resources are limited.</p>

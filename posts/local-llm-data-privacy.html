@@ -115,6 +115,15 @@ article.post p{margin:0 0 1.1em}
 .faq details p{margin:14px 0}
 .gear{margin:40px 0;padding:24px;border:1px solid var(--line);border-radius:var(--radius);background:var(--soft)}
 .gear h2{margin:0 0 16px;font-size:22px}.gear-list{display:flex;flex-direction:column;gap:12px}
+.cmp-wrap{overflow-x:auto;margin:20px 0 30px;border:1px solid var(--line);border-radius:var(--radius)}
+.cmp{width:100%;border-collapse:collapse;min-width:420px}
+.cmp th,.cmp td{padding:14px 16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+.cmp th{background:var(--soft);font-family:Inter;font-weight:700;font-size:15px}
+.cmp td:first-child,.cmp th:first-child{border-right:1px solid var(--line)}
+.cmp ul{margin:0;padding-left:18px;font-size:14px;color:var(--muted)}
+.cmp ul li{margin:3px 0}
+.cmp-cta td{border-bottom:0;padding-top:6px}
+.cmp .btn{padding:9px 14px;font-size:13.5px}
 .mid-cta{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:32px 0;padding:16px 20px;border:1px dashed var(--line);border-radius:var(--radius)}
 .mid-cta p{margin:0;font-size:15px}
 .mid-cta .btn{padding:10px 16px;font-size:14px;flex:none}
@@ -158,6 +167,7 @@ footer.site a{color:var(--muted)}footer.site nav{display:flex;gap:16px;flex-wrap
 <button id="copylink" type="button">Copy link</button>
 </div>
 <img class="hero-img" src="https://paxeko530.github.io/img/local-llm-data-privacy.png" width="1200" height="630" alt="Keeping your data private with a local LLM" fetchpriority="high">
+
 
 <nav class="toc" aria-label="On this page"><p class="toc-title">On this page</p><ol><li><a href="#understanding-the-risks-of-cloud-based-ai">Understanding the Risks of Cloud-Based AI</a></li><li><a href="#what-is-a-local-language-model">What is a Local Language Model?</a></li><li><a href="#benefits-of-using-a-local-llm">Benefits of Using a Local LLM</a></li><li><a href="#implementing-a-local-llm">Implementing a Local LLM</a></li><li><a href="#challenges-and-considerations">Challenges and Considerations</a></li></ol></nav>
 <p>In today&#39;s digital age, protecting your personal data has become more critical than ever. With the rise of cloud-based services and the increasing reliance on artificial intelligence (AI) for everyday tasks, users are often left wondering how to maintain their privacy while still benefiting from the latest technology. One solution that has gained traction is the use of a local language model (LLM), which processes data directly on your device rather than sending it to a remote server. This approach offers enhanced privacy and security, making it an attractive option for those concerned about the sanctity of their personal information. In this article, we will explore how a local LLM can help you keep your data private and what steps you can take to implement one effectively.</p>

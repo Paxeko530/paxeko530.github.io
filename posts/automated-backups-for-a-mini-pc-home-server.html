@@ -115,6 +115,15 @@ article.post p{margin:0 0 1.1em}
 .faq details p{margin:14px 0}
 .gear{margin:40px 0;padding:24px;border:1px solid var(--line);border-radius:var(--radius);background:var(--soft)}
 .gear h2{margin:0 0 16px;font-size:22px}.gear-list{display:flex;flex-direction:column;gap:12px}
+.cmp-wrap{overflow-x:auto;margin:20px 0 30px;border:1px solid var(--line);border-radius:var(--radius)}
+.cmp{width:100%;border-collapse:collapse;min-width:420px}
+.cmp th,.cmp td{padding:14px 16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+.cmp th{background:var(--soft);font-family:Inter;font-weight:700;font-size:15px}
+.cmp td:first-child,.cmp th:first-child{border-right:1px solid var(--line)}
+.cmp ul{margin:0;padding-left:18px;font-size:14px;color:var(--muted)}
+.cmp ul li{margin:3px 0}
+.cmp-cta td{border-bottom:0;padding-top:6px}
+.cmp .btn{padding:9px 14px;font-size:13.5px}
 .mid-cta{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:32px 0;padding:16px 20px;border:1px dashed var(--line);border-radius:var(--radius)}
 .mid-cta p{margin:0;font-size:15px}
 .mid-cta .btn{padding:10px 16px;font-size:14px;flex:none}
@@ -164,6 +173,7 @@ footer.site a{color:var(--muted)}footer.site nav{display:flex;gap:16px;flex-wrap
   <ul class="prod-specs"><li>2 drive bays, diskless — drives sold separately</li><li>Realtek RTD1619B quad-core 1.7 GHz, 2 GB DDR4</li><li>1x Gigabit Ethernet, 3x USB 3.2 Gen 1</li><li>Runs Synology DSM; up to 36 TB raw capacity</li></ul>
   <a class="btn" href="https://www.amazon.com/dp/B0BRNBVTJK/?tag=johnnyp02-20" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon <span aria-hidden="true">&rarr;</span></a>
 </div>
+
 <nav class="toc" aria-label="On this page"><p class="toc-title">On this page</p><ol><li><a href="#choosing-the-right-nas-device">Choosing the Right NAS Device</a></li><li><a href="#configuring-the-nas-for-backup">Configuring the NAS for Backup</a></li><li><a href="#setting-up-backup-software-on-your-mini-pc">Setting Up Backup Software on Your Mini PC</a></li><li><a href="#testing-and-verifying-backups">Testing and Verifying Backups</a></li><li><a href="#enhancing-security-and-reliability">Enhancing Security and Reliability</a></li></ol></nav>
 <p>Automated backups are a crucial aspect of maintaining the integrity and longevity of data on a home server. Whether you&#39;re managing a small collection of personal files or a more extensive library of media and documents, having a reliable backup solution in place can save you from the nightmare of data loss. In this article, we&#39;ll walk through the process of setting up automated backups for a mini PC home server, focusing on using a Network Attached Storage (NAS) device as the backup target. We&#39;ll cover the necessary steps to ensure your data is securely backed up and easily recoverable.</p>
 <h2 id="choosing-the-right-nas-device">Choosing the Right NAS Device</h2>
