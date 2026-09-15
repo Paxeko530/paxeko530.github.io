@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 14 Sep 2026 18:52:13 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 07:12:29 GMT</lastBuildDate>
+  <item>
+    <title>Building a freelance portfolio that actually gets replies</title>
+    <link>https://paxeko530.github.io/posts/building-a-freelance-portfolio-that-gets-replies.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/building-a-freelance-portfolio-that-gets-replies.html</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>As a freelancer, your portfolio is the first impression you make on potential clients. It’s your chance to showcase your skills, experience, and unique value proposition. However, having a portfolio is just the beginning. To ensure it actually attracts clients and leads to job of</description>
+    <enclosure url="https://paxeko530.github.io/img/building-a-freelance-portfolio-that-gets-replies.png" type="image/png"/>
+  </item>
+  <item>
+    <title>How much of an emergency fund a freelancer actually needs</title>
+    <link>https://paxeko530.github.io/posts/freelance-emergency-fund-how-much-to-save.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/freelance-emergency-fund-how-much-to-save.html</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>Freelancing offers incredible flexibility and the potential for significant income, but it also comes with unique financial challenges. Unlike traditional employment, freelancers don&#39;t have the luxury of a steady paycheck or company benefits. This means building a robust emergenc</description>
+    <enclosure url="https://paxeko530.github.io/img/freelance-emergency-fund-how-much-to-save.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Handling scope creep with clients before it eats your margin</title>
+    <link>https://paxeko530.github.io/posts/handling-scope-creep-with-clients.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/handling-scope-creep-with-clients.html</guid>
+    <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>Scope creep is a common challenge faced by freelancers and small business owners, especially in the early stages of a project. It occurs when additional features or changes are added to a project&#39;s scope without adjusting the project&#39;s timeline or budget. This can lead to unexpec</description>
+    <enclosure url="https://paxeko530.github.io/img/handling-scope-creep-with-clients.png" type="image/png"/>
+  </item>
   <item>
     <title>A SATA hard drive docking station for home server projects</title>
     <link>https://paxeko530.github.io/posts/sata-hard-drive-docking-station-for-home-server-projects.html</link>
@@ -247,32 +274,5 @@
     <category>Home Office</category>
     <description>In today’s office landscape, the demand for ergonomic and spaceefficient solutions is on the rise. One of the most effective ways to achieve both comfort and a clutterfree workspace is by installing a monitor arm. These versatile accessories not only elevate your monitor to the p</description>
     <enclosure url="https://paxeko530.github.io/img/choosing-a-monitor-arm.png" type="image/png"/>
-  </item>
-  <item>
-    <title>A beginner guide to Docker for self-hosting</title>
-    <link>https://paxeko530.github.io/posts/docker-for-self-hosting-beginners.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/docker-for-self-hosting-beginners.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Docker is a powerful tool for developers and system administrators that allows you to package and run applications in lightweight, portable containers. By using Docker, you can create a consistent development environment, streamline application deployment, and simplify maintenanc</description>
-    <enclosure url="https://paxeko530.github.io/img/docker-for-self-hosting-beginners.png" type="image/png"/>
-  </item>
-  <item>
-    <title>How to set freelance rates: hourly versus project pricing</title>
-    <link>https://paxeko530.github.io/posts/how-to-set-freelance-rates.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/how-to-set-freelance-rates.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>As a freelance professional, setting your rates can be one of the most challenging aspects of your business. Whether you&#39;re just starting out or looking to refine your pricing strategy, deciding between hourly and projectbased pricing can significantly impact your income and clie</description>
-    <enclosure url="https://paxeko530.github.io/img/how-to-set-freelance-rates.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Using a local LLM as a coding assistant in your editor</title>
-    <link>https://paxeko530.github.io/posts/local-llm-coding-assistant.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/local-llm-coding-assistant.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Local language models (LLMs) have gained significant traction in recent years for their ability to provide realtime assistance without the need for an internet connection. As a coding professional, you can leverage these models to enhance your productivity by integrating them dir</description>
-    <enclosure url="https://paxeko530.github.io/img/local-llm-coding-assistant.png" type="image/png"/>
   </item>
 </channel></rss>
