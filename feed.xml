@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 15 Sep 2026 07:14:24 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 07:34:07 GMT</lastBuildDate>
+  <item>
+    <title>Noise-cancelling headphones for a shared home office</title>
+    <link>https://paxeko530.github.io/posts/noise-cancelling-headphones-for-a-shared-home-office.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/noise-cancelling-headphones-for-a-shared-home-office.html</guid>
+    <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>In today’s world, many of us are finding ourselves working from home in shared spaces, whether it’s a cozy corner of a living room or a converted bedroom. The challenge of maintaining focus in a home office can be daunting, especially when family members, pets, or roommates are a</description>
+    <enclosure url="https://paxeko530.github.io/img/noise-cancelling-headphones-for-a-shared-home-office.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Setting up a VPN to access your home server remotely</title>
+    <link>https://paxeko530.github.io/posts/vpn-for-accessing-your-home-server-remotely.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/vpn-for-accessing-your-home-server-remotely.html</guid>
+    <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Establishing a virtual private network (VPN) to access your home server remotely is a powerful way to ensure secure and reliable access to your data and services. A wellconfigured VPN can offer robust encryption, highspeed connections, and a host of other benefits, making it an i</description>
+    <enclosure url="https://paxeko530.github.io/img/vpn-for-accessing-your-home-server-remotely.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Choosing a webcam for professional-looking video calls</title>
+    <link>https://paxeko530.github.io/posts/webcam-for-professional-looking-video-calls.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/webcam-for-professional-looking-video-calls.html</guid>
+    <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Choosing the right webcam can significantly improve the quality of your video calls, making you look more professional and ensuring smoother communication. With the rise of remote work and virtual meetings, selecting a webcam that meets your needs is crucial. This guide will help</description>
+    <enclosure url="https://paxeko530.github.io/img/webcam-for-professional-looking-video-calls.png" type="image/png"/>
+  </item>
   <item>
     <title>Building a freelance portfolio that actually gets replies</title>
     <link>https://paxeko530.github.io/posts/building-a-freelance-portfolio-that-gets-replies.html</link>
@@ -247,32 +274,5 @@
     <category>Self-Hosting &amp; Local AI</category>
     <description>As the use of local AI models becomes increasingly prevalent, the importance of proper storage solutions cannot be overstated. Efficient and fast storage is crucial for the performance of AI applications, particularly when dealing with large model files. One solution that stands </description>
     <enclosure url="https://paxeko530.github.io/img/storage-for-local-ai-models.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Tracking billable hours accurately when you work solo</title>
-    <link>https://paxeko530.github.io/posts/tracking-billable-hours-solo.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/tracking-billable-hours-solo.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>Tracking billable hours accurately is crucial for any solo professional, whether you&#39;re a freelancer, consultant, or selfemployed. Accurate time tracking helps you manage your workload, set fair rates, and maintain a healthy worklife balance. However, keeping track of your time c</description>
-    <enclosure url="https://paxeko530.github.io/img/tracking-billable-hours-solo.png" type="image/png"/>
-  </item>
-  <item>
-    <title>How to choose a NAS for home backups and file storage</title>
-    <link>https://paxeko530.github.io/posts/choose-a-nas-for-home-backups.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/choose-a-nas-for-home-backups.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Choosing the right Network Attached Storage (NAS) device for your home can be a crucial decision, especially if you&#39;re looking to store and back up large amounts of data. With the increasing amount of digital content we generate daily, from photos and videos to documents and musi</description>
-    <enclosure url="https://paxeko530.github.io/img/choose-a-nas-for-home-backups.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Choosing a monitor arm to reclaim desk space</title>
-    <link>https://paxeko530.github.io/posts/choosing-a-monitor-arm.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/choosing-a-monitor-arm.html</guid>
-    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Home Office</category>
-    <description>In today’s office landscape, the demand for ergonomic and spaceefficient solutions is on the rise. One of the most effective ways to achieve both comfort and a clutterfree workspace is by installing a monitor arm. These versatile accessories not only elevate your monitor to the p</description>
-    <enclosure url="https://paxeko530.github.io/img/choosing-a-monitor-arm.png" type="image/png"/>
   </item>
 </channel></rss>
