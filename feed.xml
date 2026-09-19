@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 18 Sep 2026 22:08:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 05:22:40 GMT</lastBuildDate>
+  <item>
+    <title>Choosing a case for a home server build</title>
+    <link>https://paxeko530.github.io/posts/choosing-a-case-for-a-home-server-build.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/choosing-a-case-for-a-home-server-build.html</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Building a home server can be an exciting project, offering you the freedom to host your own files, media, and even web services. However, selecting the right case for your server setup is crucial as it will impact the performance, accessibility, and longevity of your build. A we</description>
+    <enclosure url="https://paxeko530.github.io/img/choosing-a-case-for-a-home-server-build.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Choosing an office chair for a home office</title>
+    <link>https://paxeko530.github.io/posts/office-chair-for-a-home-office.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/office-chair-for-a-home-office.html</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>An ergonomic office chair is one of the most crucial pieces of furniture for a productive and comfortable home office. With so many options on the market, choosing the right chair can be overwhelming. This guide will walk you through the key factors to consider when selecting an </description>
+    <enclosure url="https://paxeko530.github.io/img/office-chair-for-a-home-office.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Self-hosted password manager basics</title>
+    <link>https://paxeko530.github.io/posts/self-hosted-password-manager-basics.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/self-hosted-password-manager-basics.html</guid>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Password managers are essential tools in today&#39;s digital landscape, offering a secure way to manage and protect your login credentials. While many popular password managers operate as cloudbased services, selfhosted password managers provide an added layer of security and privacy</description>
+    <enclosure url="https://paxeko530.github.io/img/self-hosted-password-manager-basics.png" type="image/png"/>
+  </item>
   <item>
     <title>Noise-cancelling headphones for a shared home office</title>
     <link>https://paxeko530.github.io/posts/noise-cancelling-headphones-for-a-shared-home-office.html</link>
@@ -247,32 +274,5 @@
     <category>Self-Hosting &amp; Local AI</category>
     <description>In today&#39;s digital age, protecting your personal data has become more critical than ever. With the rise of cloudbased services and the increasing reliance on artificial intelligence (AI) for everyday tasks, users are often left wondering how to maintain their privacy while still </description>
     <enclosure url="https://paxeko530.github.io/img/local-llm-data-privacy.png" type="image/png"/>
-  </item>
-  <item>
-    <title>A simple monthly bookkeeping routine for freelancers</title>
-    <link>https://paxeko530.github.io/posts/monthly-bookkeeping-routine-freelancers.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/monthly-bookkeeping-routine-freelancers.html</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>As a freelancer, managing your finances can be a daunting task. Bookkeeping might not be as exciting as the creative aspects of your work, but it’s crucial for your financial health and peace of mind. Establishing a simple monthly bookkeeping routine can help you stay on top of y</description>
-    <enclosure url="https://paxeko530.github.io/img/monthly-bookkeeping-routine-freelancers.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Cable management for a tidy home office desk</title>
-    <link>https://paxeko530.github.io/posts/cable-management-home-office.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/cable-management-home-office.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Home Office</category>
-    <description>A wellorganized home office desk is not just about having a clean workspace but also about ensuring that all your equipment is connected and functioning smoothly. One of the most common challenges in setting up a home office is managing the cables and wires that come with technol</description>
-    <enclosure url="https://paxeko530.github.io/img/cable-management-home-office.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Storage for local AI: why model files need a fast NVMe drive</title>
-    <link>https://paxeko530.github.io/posts/storage-for-local-ai-models.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/storage-for-local-ai-models.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>As the use of local AI models becomes increasingly prevalent, the importance of proper storage solutions cannot be overstated. Efficient and fast storage is crucial for the performance of AI applications, particularly when dealing with large model files. One solution that stands </description>
-    <enclosure url="https://paxeko530.github.io/img/storage-for-local-ai-models.png" type="image/png"/>
   </item>
 </channel></rss>

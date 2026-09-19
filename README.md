@@ -7,7 +7,7 @@ Straight-talking guides on the tools, gear, and setups that make independent wor
 <p align="center">
 <a href="https://paxeko530.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/Visit_the_site-0b62ff?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 &nbsp;
-<a href="https://paxeko530.github.io/posts/noise-cancelling-headphones-for-a-shared-home-office.html"><img alt="Read a guide" src="https://img.shields.io/badge/Read_a_guide-16181d?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+<a href="https://paxeko530.github.io/posts/choosing-a-case-for-a-home-server-build.html"><img alt="Read a guide" src="https://img.shields.io/badge/Read_a_guide-16181d?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
 ---
@@ -16,12 +16,15 @@ Straight-talking guides on the tools, gear, and setups that make independent wor
 
 <table><tr>
 <td width="33%" valign="top"><a href="https://paxeko530.github.io/category-freelancer.html"><img src="img/building-a-freelance-portfolio-that-gets-replies.png" width="100%" alt="Freelance Tools"></a><br><br><strong><a href="https://paxeko530.github.io/category-freelancer.html">Freelance Tools</a></strong><br><sub>Software, cash flow, contracts, invoicing</sub></td>
-<td width="33%" valign="top"><a href="https://paxeko530.github.io/category-escritorio.html"><img src="img/noise-cancelling-headphones-for-a-shared-home-office.png" width="100%" alt="Home Office"></a><br><br><strong><a href="https://paxeko530.github.io/category-escritorio.html">Home Office</a></strong><br><sub>Ergonomics, lighting, remote-work productivity</sub></td>
-<td width="33%" valign="top"><a href="https://paxeko530.github.io/category-ia.html"><img src="img/vpn-for-accessing-your-home-server-remotely.png" width="100%" alt="Self-Hosting &amp; Local AI"></a><br><br><strong><a href="https://paxeko530.github.io/category-ia.html">Self-Hosting &amp; Local AI</a></strong><br><sub>Home servers, NAS, mini PCs, open-source models</sub></td>
+<td width="33%" valign="top"><a href="https://paxeko530.github.io/category-escritorio.html"><img src="img/office-chair-for-a-home-office.png" width="100%" alt="Home Office"></a><br><br><strong><a href="https://paxeko530.github.io/category-escritorio.html">Home Office</a></strong><br><sub>Ergonomics, lighting, remote-work productivity</sub></td>
+<td width="33%" valign="top"><a href="https://paxeko530.github.io/category-ia.html"><img src="img/choosing-a-case-for-a-home-server-build.png" width="100%" alt="Self-Hosting &amp; Local AI"></a><br><br><strong><a href="https://paxeko530.github.io/category-ia.html">Self-Hosting &amp; Local AI</a></strong><br><sub>Home servers, NAS, mini PCs, open-source models</sub></td>
 </tr></table>
 
 ## Latest guides
 
+- **[Choosing a case for a home server build](https://paxeko530.github.io/posts/choosing-a-case-for-a-home-server-build.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
+- **[Choosing an office chair for a home office](https://paxeko530.github.io/posts/office-chair-for-a-home-office.html)** &nbsp;<sub>Home Office</sub>
+- **[Self-hosted password manager basics](https://paxeko530.github.io/posts/self-hosted-password-manager-basics.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
 - **[Noise-cancelling headphones for a shared home office](https://paxeko530.github.io/posts/noise-cancelling-headphones-for-a-shared-home-office.html)** &nbsp;<sub>Home Office</sub>
 - **[Setting up a VPN to access your home server remotely](https://paxeko530.github.io/posts/vpn-for-accessing-your-home-server-remotely.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
 - **[Choosing a webcam for professional-looking video calls](https://paxeko530.github.io/posts/webcam-for-professional-looking-video-calls.html)** &nbsp;<sub>Home Office</sub>
@@ -31,9 +34,6 @@ Straight-talking guides on the tools, gear, and setups that make independent wor
 - **[A SATA hard drive docking station for home server projects](https://paxeko530.github.io/posts/sata-hard-drive-docking-station-for-home-server-projects.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
 - **[Choosing the best desk lamp for eye comfort during long work days](https://paxeko530.github.io/posts/best-desk-lamp-for-eye-comfort.html)** &nbsp;<sub>Home Office</sub>
 - **[Picking a mechanical keyboard for long typing sessions](https://paxeko530.github.io/posts/mechanical-keyboard-for-long-typing-sessions.html)** &nbsp;<sub>Home Office</sub>
-- **[Network-attached storage basics for beginners](https://paxeko530.github.io/posts/network-attached-storage-basics-for-beginners.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
-- **[Quarterly estimated taxes for freelancers: the basics](https://paxeko530.github.io/posts/quarterly-estimated-taxes-for-freelancers-basics.html)** &nbsp;<sub>Freelance Tools</sub>
-- **[When a RAM upgrade helps you run larger local LLMs](https://paxeko530.github.io/posts/ram-upgrade-for-running-larger-local-llms.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
 
 <p align="right"><a href="https://paxeko530.github.io/"><strong>See all &rarr;</strong></a></p>
 
