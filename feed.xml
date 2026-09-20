@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 19 Sep 2026 05:28:40 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 10:26:28 GMT</lastBuildDate>
+  <item>
+    <title>How to end a client relationship professionally</title>
+    <link>https://paxeko530.github.io/posts/ending-a-client-relationship-professionally.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/ending-a-client-relationship-professionally.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>Ending a client relationship can be a challenging and sensitive task, especially in the freelance and professional service industries. Whether it&#39;s due to a change in your business direction, a mutual decision, or a client’s behavior that is detrimental to your professional goals</description>
+    <enclosure url="https://paxeko530.github.io/img/ending-a-client-relationship-professionally.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Fixed-price vs. hourly billing: how to decide per project</title>
+    <link>https://paxeko530.github.io/posts/fixed-price-vs-hourly-billing-how-to-decide.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/fixed-price-vs-hourly-billing-how-to-decide.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>When hiring a freelancer or contractor for a project, one of the first decisions you&#39;ll need to make is whether to go with a fixedprice or hourly billing model. Each has its own advantages and disadvantages, and the best choice depends on the nature of the project, the scope of w</description>
+    <enclosure url="https://paxeko530.github.io/img/fixed-price-vs-hourly-billing-how-to-decide.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Standing desk converters: are they worth it for a home office?</title>
+    <link>https://paxeko530.github.io/posts/standing-desk-converter-worth-it.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/standing-desk-converter-worth-it.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Standing desk converters have become a popular solution for those looking to add some versatility to their home office setup without the hefty investment of a fully assembled standing desk. These converters allow you to easily switch between sitting and standing, potentially impr</description>
+    <enclosure url="https://paxeko530.github.io/img/standing-desk-converter-worth-it.png" type="image/png"/>
+  </item>
   <item>
     <title>Choosing a case for a home server build</title>
     <link>https://paxeko530.github.io/posts/choosing-a-case-for-a-home-server-build.html</link>
@@ -247,32 +274,5 @@
     <category>Self-Hosting &amp; Local AI</category>
     <description>Reverse proxying is a powerful technique used to enhance the security, performance, and manageability of websites and applications hosted at home. Whether you&#39;re setting up a personal blog, a file sharing service, or a game server, a reverse proxy can help you manage traffic, imp</description>
     <enclosure url="https://paxeko530.github.io/img/reverse-proxy-basics-self-hosting.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Why a sole proprietor should keep a separate business bank account</title>
-    <link>https://paxeko530.github.io/posts/separate-business-bank-account-sole-proprietor.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/separate-business-bank-account-sole-proprietor.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>As a sole proprietor or freelancer, setting up a separate business bank account is a crucial step in managing your finances effectively. While it might seem like an unnecessary expense or hassle, maintaining a distinct business account offers several advantages that can protect y</description>
-    <enclosure url="https://paxeko530.github.io/img/separate-business-bank-account-sole-proprietor.png" type="image/png"/>
-  </item>
-  <item>
-    <title>How retainer agreements work for freelancers</title>
-    <link>https://paxeko530.github.io/posts/freelance-retainer-agreements-explained.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/freelance-retainer-agreements-explained.html</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>Freelancers often find that securing a steady income can be challenging, especially when they rely on projectbyproject work. One solution that can provide stability and predictability is a retainer agreement. A retainer agreement is a contract between a freelancer and a client th</description>
-    <enclosure url="https://paxeko530.github.io/img/freelance-retainer-agreements-explained.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Keeping your data private with a local LLM</title>
-    <link>https://paxeko530.github.io/posts/local-llm-data-privacy.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/local-llm-data-privacy.html</guid>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>In today&#39;s digital age, protecting your personal data has become more critical than ever. With the rise of cloudbased services and the increasing reliance on artificial intelligence (AI) for everyday tasks, users are often left wondering how to maintain their privacy while still </description>
-    <enclosure url="https://paxeko530.github.io/img/local-llm-data-privacy.png" type="image/png"/>
   </item>
 </channel></rss>
