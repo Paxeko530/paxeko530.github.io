@@ -4,7 +4,7 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 20 Sep 2026 10:35:29 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 10:45:46 GMT</lastBuildDate>
   <item>
     <title>How to end a client relationship professionally</title>
     <link>https://paxeko530.github.io/posts/ending-a-client-relationship-professionally.html</link>
@@ -24,6 +24,15 @@
     <enclosure url="https://paxeko530.github.io/img/fixed-price-vs-hourly-billing-how-to-decide.png" type="image/png"/>
   </item>
   <item>
+    <title>Home network basics before you start self-hosting</title>
+    <link>https://paxeko530.github.io/posts/home-network-basics-for-self-hosting.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/home-network-basics-for-self-hosting.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Home network basics before you start selfhosting When you decide to set up a server at home for selfhosting services, the quality and configuration of your home network become paramount. Whether you’re hosting a personal website, a file server, or a gaming server, understanding t</description>
+    <enclosure url="https://paxeko530.github.io/img/home-network-basics-for-self-hosting.png" type="image/png"/>
+  </item>
+  <item>
     <title>A laptop stand for your home office desk: what else you need to buy with it</title>
     <link>https://paxeko530.github.io/posts/laptop-stand-for-a-home-office-desk.html</link>
     <guid isPermaLink="true">https://paxeko530.github.io/posts/laptop-stand-for-a-home-office-desk.html</guid>
@@ -31,6 +40,15 @@
     <category>Home Office</category>
     <description>Using a laptop stand in your home office can significantly enhance your posture and ergonomics, but it also introduces a set of challenges that need to be addressed for optimal comfort and productivity. One of the most significant issues is the awkward positioning of the builtin </description>
     <enclosure url="https://paxeko530.github.io/img/laptop-stand-for-a-home-office-desk.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Monitoring uptime and health for a home server</title>
+    <link>https://paxeko530.github.io/posts/monitoring-uptime-for-a-home-server.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/monitoring-uptime-for-a-home-server.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Self-Hosting &amp; Local AI</category>
+    <description>Running a home server can be a rewarding endeavor, whether you&#39;re managing a personal website, hosting a file server, or running a media server. However, ensuring that your server is up and running smoothly at all times can be challenging. Monitoring uptime and health is crucial </description>
+    <enclosure url="https://paxeko530.github.io/img/monitoring-uptime-for-a-home-server.png" type="image/png"/>
   </item>
   <item>
     <title>Standing desk converters: are they worth it for a home office?</title>
@@ -56,7 +74,7 @@
     <guid isPermaLink="true">https://paxeko530.github.io/posts/vertical-mouse-for-wrist-comfort-trial-plan.html</guid>
     <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
     <category>Home Office</category>
-    <description>Switching to a vertical mouse can be a significant change for anyone accustomed to traditional horizontal mice. The ergonomic benefits are welldocumented, but the adjustment period can be challenging. Over the course of two weeks, you’ll experience a range of sensations as your h</description>
+    <description>Switching to a vertical mouse can be a significant change for anyone accustomed to traditional horizontal mice. Vertical mice are designed with comfort in mind, but the adjustment period can be challenging. Over the course of two weeks, you’ll experience a range of sensations as </description>
     <enclosure url="https://paxeko530.github.io/img/vertical-mouse-for-wrist-comfort-trial-plan.png" type="image/png"/>
   </item>
   <item>
@@ -256,23 +274,5 @@
     <category>Self-Hosting &amp; Local AI</category>
     <description>Choosing the right Linux distribution for your home server can be a daunting task, especially if you&#39;re new to Linux and the vast array of options available. Each distribution, or &quot;distro,&quot; has its own unique features, community support, and use cases. Whether you&#39;re setting up a</description>
     <enclosure url="https://paxeko530.github.io/img/choosing-a-linux-distro-home-server.png" type="image/png"/>
-  </item>
-  <item>
-    <title>What context length means when running a local LLM</title>
-    <link>https://paxeko530.github.io/posts/context-length-local-llm-explained.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/context-length-local-llm-explained.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Understanding the concept of context length is crucial when working with local large language models (LLMs). Context length, often referred to as the context window, determines how much information a model can consider at once when generating responses. This parameter is essentia</description>
-    <enclosure url="https://paxeko530.github.io/img/context-length-local-llm-explained.png" type="image/png"/>
-  </item>
-  <item>
-    <title>A pre-call checklist for smoother client video meetings</title>
-    <link>https://paxeko530.github.io/posts/pre-call-checklist-client-video-meetings.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/pre-call-checklist-client-video-meetings.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Home Office</category>
-    <description>In today’s fastpaced business environment, remote work and video meetings have become the norm. Whether you’re a seasoned professional or just starting out in the world of remote work, ensuring that your client video meetings run smoothly is crucial. A wellprepared meeting can ma</description>
-    <enclosure url="https://paxeko530.github.io/img/pre-call-checklist-client-video-meetings.png" type="image/png"/>
   </item>
 </channel></rss>
