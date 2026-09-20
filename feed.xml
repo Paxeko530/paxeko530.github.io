@@ -4,7 +4,7 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 20 Sep 2026 10:26:28 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 10:35:29 GMT</lastBuildDate>
   <item>
     <title>How to end a client relationship professionally</title>
     <link>https://paxeko530.github.io/posts/ending-a-client-relationship-professionally.html</link>
@@ -24,6 +24,15 @@
     <enclosure url="https://paxeko530.github.io/img/fixed-price-vs-hourly-billing-how-to-decide.png" type="image/png"/>
   </item>
   <item>
+    <title>A laptop stand for your home office desk: what else you need to buy with it</title>
+    <link>https://paxeko530.github.io/posts/laptop-stand-for-a-home-office-desk.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/laptop-stand-for-a-home-office-desk.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Using a laptop stand in your home office can significantly enhance your posture and ergonomics, but it also introduces a set of challenges that need to be addressed for optimal comfort and productivity. One of the most significant issues is the awkward positioning of the builtin </description>
+    <enclosure url="https://paxeko530.github.io/img/laptop-stand-for-a-home-office-desk.png" type="image/png"/>
+  </item>
+  <item>
     <title>Standing desk converters: are they worth it for a home office?</title>
     <link>https://paxeko530.github.io/posts/standing-desk-converter-worth-it.html</link>
     <guid isPermaLink="true">https://paxeko530.github.io/posts/standing-desk-converter-worth-it.html</guid>
@@ -31,6 +40,24 @@
     <category>Home Office</category>
     <description>Standing desk converters have become a popular solution for those looking to add some versatility to their home office setup without the hefty investment of a fully assembled standing desk. These converters allow you to easily switch between sitting and standing, potentially impr</description>
     <enclosure url="https://paxeko530.github.io/img/standing-desk-converter-worth-it.png" type="image/png"/>
+  </item>
+  <item>
+    <title>A USB-C hub for a one-cable desk: a port audit before you buy</title>
+    <link>https://paxeko530.github.io/posts/usb-c-hub-for-a-one-cable-desk.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/usb-c-hub-for-a-one-cable-desk.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Streamlining your desk setup with a USBC hub can be a gamechanger, but it’s essential to approach the purchase with a thoughtful port audit. This process involves listing your current devices and their power requirements, determining which ports you need, and understanding the li</description>
+    <enclosure url="https://paxeko530.github.io/img/usb-c-hub-for-a-one-cable-desk.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Trying a vertical mouse: a two-week switch-over plan</title>
+    <link>https://paxeko530.github.io/posts/vertical-mouse-for-wrist-comfort-trial-plan.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/vertical-mouse-for-wrist-comfort-trial-plan.html</guid>
+    <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Switching to a vertical mouse can be a significant change for anyone accustomed to traditional horizontal mice. The ergonomic benefits are welldocumented, but the adjustment period can be challenging. Over the course of two weeks, you’ll experience a range of sensations as your h</description>
+    <enclosure url="https://paxeko530.github.io/img/vertical-mouse-for-wrist-comfort-trial-plan.png" type="image/png"/>
   </item>
   <item>
     <title>Choosing a case for a home server build</title>
@@ -247,32 +274,5 @@
     <category>Home Office</category>
     <description>In today’s fastpaced business environment, remote work and video meetings have become the norm. Whether you’re a seasoned professional or just starting out in the world of remote work, ensuring that your client video meetings run smoothly is crucial. A wellprepared meeting can ma</description>
     <enclosure url="https://paxeko530.github.io/img/pre-call-checklist-client-video-meetings.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Reducing eye strain during long days at the screen</title>
-    <link>https://paxeko530.github.io/posts/reducing-eye-strain-screen-work.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/reducing-eye-strain-screen-work.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Home Office</category>
-    <description>As more and more of us spend our days staring at screens, whether for work or leisure, the issue of eye strain has become increasingly prevalent. The discomfort and fatigue that come with prolonged screen use can affect productivity and overall wellbeing. The good news is that th</description>
-    <enclosure url="https://paxeko530.github.io/img/reducing-eye-strain-screen-work.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Practical ways to reduce fan noise from a home server</title>
-    <link>https://paxeko530.github.io/posts/reducing-fan-noise-home-server.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/reducing-fan-noise-home-server.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Every tech enthusiast knows the frustration of a noisy home server or mini PC. Whether you&#39;re dealing with the hum of a highperformance CPU or the whir of multiple hard drives, fan noise can be a significant deterrent to enjoying your setup. Fortunately, there are several practic</description>
-    <enclosure url="https://paxeko530.github.io/img/reducing-fan-noise-home-server.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Reverse proxy basics for self-hosting at home</title>
-    <link>https://paxeko530.github.io/posts/reverse-proxy-basics-self-hosting.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/reverse-proxy-basics-self-hosting.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Reverse proxying is a powerful technique used to enhance the security, performance, and manageability of websites and applications hosted at home. Whether you&#39;re setting up a personal blog, a file sharing service, or a game server, a reverse proxy can help you manage traffic, imp</description>
-    <enclosure url="https://paxeko530.github.io/img/reverse-proxy-basics-self-hosting.png" type="image/png"/>
   </item>
 </channel></rss>
