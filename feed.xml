@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 20 Sep 2026 10:45:46 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 05:25:38 GMT</lastBuildDate>
+  <item>
+    <title>Is a desk mat worth it? What goes under your keyboard and mouse</title>
+    <link>https://paxeko530.github.io/posts/desk-mat-for-a-home-office-worth-it.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/desk-mat-for-a-home-office-worth-it.html</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>When setting up a comfortable and efficient workspace, one often wonders if a desk mat is a worthwhile investment. A desk mat can serve multiple purposes, including protecting your desk surface, improving mouse tracking, reducing noise, and even enhancing the aesthetic appeal of </description>
+    <enclosure url="https://paxeko530.github.io/img/desk-mat-for-a-home-office-worth-it.png" type="image/png"/>
+  </item>
+  <item>
+    <title>A monitor light bar for a small desk: when it replaces a desk lamp</title>
+    <link>https://paxeko530.github.io/posts/monitor-light-bar-for-a-small-desk.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/monitor-light-bar-for-a-small-desk.html</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>A monitor light bar is a clever lighting solution that clips directly onto your monitor, providing an efficient way to illuminate your workspace without taking up valuable desk space. If you have a small desk, the monitor light bar can be a gamechanger, offering a compact alterna</description>
+    <enclosure url="https://paxeko530.github.io/img/monitor-light-bar-for-a-small-desk.png" type="image/png"/>
+  </item>
+  <item>
+    <title>USB microphone or headset mic for video calls: which one to buy</title>
+    <link>https://paxeko530.github.io/posts/usb-microphone-vs-headset-mic-for-video-calls.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/usb-microphone-vs-headset-mic-for-video-calls.html</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>When choosing between a USB microphone and a headset microphone for your video calls, it’s important to consider the specific needs of your setup and environment. While a USB microphone can offer superior sound quality and flexibility, a headset microphone provides convenience an</description>
+    <enclosure url="https://paxeko530.github.io/img/usb-microphone-vs-headset-mic-for-video-calls.png" type="image/png"/>
+  </item>
   <item>
     <title>How to end a client relationship professionally</title>
     <link>https://paxeko530.github.io/posts/ending-a-client-relationship-professionally.html</link>
@@ -247,32 +274,5 @@
     <category>Freelance Tools</category>
     <description>As a freelancer, setting clear payment terms is crucial to maintaining a healthy business relationship with your clients. However, defining these terms is only the first step. Ensuring that clients adhere to them is equally important. In this article, we will explore strategies f</description>
     <enclosure url="https://paxeko530.github.io/img/setting-freelance-payment-terms-that-stick.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Setting up automated backups for a mini PC home server</title>
-    <link>https://paxeko530.github.io/posts/automated-backups-for-a-mini-pc-home-server.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/automated-backups-for-a-mini-pc-home-server.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Automated backups are a crucial aspect of maintaining the integrity and longevity of data on a home server. Whether you&#39;re managing a small collection of personal files or a more extensive library of media and documents, having a reliable backup solution in place can save you fro</description>
-    <enclosure url="https://paxeko530.github.io/img/automated-backups-for-a-mini-pc-home-server.png" type="image/png"/>
-  </item>
-  <item>
-    <title>How to chase late invoice payments without losing the client</title>
-    <link>https://paxeko530.github.io/posts/chasing-late-invoice-payments.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/chasing-late-invoice-payments.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>Every freelancer knows the frustration of chasing late payments. While it’s crucial to maintain positive client relationships, it’s equally important to ensure you get paid on time. Late payments can disrupt your cash flow and affect your ability to pay bills and invest in your b</description>
-    <enclosure url="https://paxeko530.github.io/img/chasing-late-invoice-payments.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Choosing a Linux distribution for a home server</title>
-    <link>https://paxeko530.github.io/posts/choosing-a-linux-distro-home-server.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/choosing-a-linux-distro-home-server.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Choosing the right Linux distribution for your home server can be a daunting task, especially if you&#39;re new to Linux and the vast array of options available. Each distribution, or &quot;distro,&quot; has its own unique features, community support, and use cases. Whether you&#39;re setting up a</description>
-    <enclosure url="https://paxeko530.github.io/img/choosing-a-linux-distro-home-server.png" type="image/png"/>
   </item>
 </channel></rss>
