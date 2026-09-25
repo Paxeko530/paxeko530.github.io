@@ -128,6 +128,9 @@ article.post p{margin:0 0 1.1em}
 .mid-cta p{margin:0;font-size:15px}
 .mid-cta .btn{padding:10px 16px;font-size:14px;flex:none}
 .disclosure{font-size:12.5px;color:var(--muted);margin-top:16px}
+.aff-note{margin:20px 0 -12px}
+.see-also{margin:28px 0;padding:14px 18px;border-left:3px solid var(--accent);background:var(--soft);border-radius:var(--radius)}
+.see-also-title{margin:0 0 6px;font-weight:700;font-size:15px}.see-also ul{margin:0;padding-left:18px}
 .prevnext{display:flex;justify-content:space-between;gap:16px;margin:40px 0 8px;font-size:14px}
 .prevnext a{max-width:48%}
 .related{margin:44px 0 8px}.related h2{font-size:22px;margin:0 0 18px}
@@ -167,6 +170,9 @@ footer.site a{color:var(--muted)}footer.site nav{display:flex;gap:16px;flex-wrap
 <button id="copylink" type="button">Copy link</button>
 </div>
 <img class="hero-img" src="https://paxeko530.github.io/img/automated-backups-for-a-mini-pc-home-server.png" width="1200" height="630" alt="Setting up automated backups for a mini PC home server" fetchpriority="high">
+<p class="disclosure aff-note">This guide contains Amazon affiliate links. As an Amazon Associate,
+  SoloStack earns from qualifying purchases at no extra cost to you &mdash;
+  <a href="https://paxeko530.github.io/how-we-choose.html">how we choose</a>.</p>
 <div class="prod prod-featured">
   <p class="prod-tag">Top pick</p>
   <p class="prod-name">Synology DS223 (2-bay diskless NAS)</p>
@@ -226,6 +232,7 @@ footer.site a{color:var(--muted)}footer.site nav{display:flex;gap:16px;flex-wrap
   <p>Still deciding? <strong>Synology DS223 (2-bay diskless NAS)</strong> is the pick we recommend for this.</p>
   <a class="btn" href="https://www.amazon.com/dp/B0BRNBVTJK/?tag=johnnyp02-20" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon <span aria-hidden="true">&rarr;</span></a>
 </div>
+
 <section class="faq"><h2 id="faq">Frequently asked questions</h2><details><summary>Can I use cloud storage instead of a NAS for backups?</summary><p>Yes, you can use cloud storage services like Google Drive, Dropbox, or Amazon S3 as backup targets. However, cloud storage may not be as cost-effective or performant for large-scale backups compared to a local NAS. Consider your specific needs and budget before making a decision.</p></details><details><summary>How often should I perform backups?</summary><p>The frequency of backups depends on your tolerance for data loss. Daily backups are generally recommended for critical data, while less critical data might be backed up weekly or monthly. Regular backups help minimize the window of exposure to data loss.</p></details><details><summary>What should I do if my NAS fails?</summary><p>If your NAS fails, you should first attempt to restore it according to the manufacturer’s instructions. If restoration is not possible, you may need to recover data from your last backup. Keep an offline copy of your backups in a safe location, such as an external hard drive or a secondary NAS, to ensure data is recoverable even in the event of a complete NAS failure.</p></details></section>
 <h2 id="conclusion">Conclusion</h2>
 <p>Automated backups are a vital component of any home server setup, providing peace of mind and protecting your data from unforeseen events. By following the steps outlined in this article, you can set up a reliable backup system using a NAS device and a tool like rsync. Regular testing and maintenance will further ensure that your backups remain effective and secure, safeguarding your valuable data against potential loss.</p>

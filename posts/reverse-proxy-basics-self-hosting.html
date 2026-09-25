@@ -128,6 +128,9 @@ article.post p{margin:0 0 1.1em}
 .mid-cta p{margin:0;font-size:15px}
 .mid-cta .btn{padding:10px 16px;font-size:14px;flex:none}
 .disclosure{font-size:12.5px;color:var(--muted);margin-top:16px}
+.aff-note{margin:20px 0 -12px}
+.see-also{margin:28px 0;padding:14px 18px;border-left:3px solid var(--accent);background:var(--soft);border-radius:var(--radius)}
+.see-also-title{margin:0 0 6px;font-weight:700;font-size:15px}.see-also ul{margin:0;padding-left:18px}
 .prevnext{display:flex;justify-content:space-between;gap:16px;margin:40px 0 8px;font-size:14px}
 .prevnext a{max-width:48%}
 .related{margin:44px 0 8px}.related h2{font-size:22px;margin:0 0 18px}
@@ -252,6 +255,7 @@ sudo certbot --nginx -d example.com
 <li><strong>URL Rewriting</strong>: Modify URLs as requests pass through the proxy to improve user experience or implement advanced routing logic.</li>
 </ul>
 <p>These features can be configured using various Nginx modules and directives, depending on your specific needs.</p>
+
 
 
 <section class="faq"><h2 id="faq">Frequently asked questions</h2><details><summary>How does a reverse proxy improve security?</summary><p>A reverse proxy improves security by acting as a barrier between clients and backend servers. It can handle SSL/TLS termination, which means it decrypts incoming HTTPS requests and forwards them to backend servers over HTTP, reducing the risk of exposing sensitive data. Additionally, it can implement security measures such as IP whitelisting and rate limiting to protect backend servers from unauthorized access.</p></details><details><summary>Can I use a reverse proxy with different web servers?</summary><p>Yes, you can use a reverse proxy with different web servers. Common choices include Nginx, Apache, and HAProxy. Each of these servers has its own configuration methods and features, but the basic principles of reverse proxying remain the same.</p></details><details><summary>What are the performance benefits of using a reverse proxy?</summary><p>Using a reverse proxy can improve performance in several ways: - **Load Balancing**: Distributes client requests across multiple backend servers, reducing load on individual servers and improving response times. - **Caching**: Stores frequently requested content on the proxy server, reducing the need for backend servers to generate the same content repeatedly. - **Connection Pooling**: Maintains persistent connections to backend servers, reducing the overhead of establishing new connections for each request.</p></details></section>
