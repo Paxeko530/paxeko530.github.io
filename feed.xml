@@ -4,7 +4,34 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 30 Sep 2026 05:21:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 05:29:16 GMT</lastBuildDate>
+  <item>
+    <title>Do keyboard wrist rests help? What they do, what they do not, and who can skip them</title>
+    <link>https://paxeko530.github.io/posts/keyboard-wrist-rest-what-it-does-and-does-not.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/keyboard-wrist-rest-what-it-does-and-does-not.html</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>A wrist rest is a common accessory for keyboards, but its purpose can be misunderstood. Many people think a wrist rest is meant to support your wrists while typing, but that’s not entirely accurate. The primary purpose of a wrist rest is to provide a comfortable place to rest you</description>
+    <enclosure url="https://paxeko530.github.io/img/keyboard-wrist-rest-what-it-does-and-does-not.png" type="image/png"/>
+  </item>
+  <item>
+    <title>A portable SSD as your offline backup copy: setup and a monthly restore test</title>
+    <link>https://paxeko530.github.io/posts/portable-ssd-as-the-offline-backup-copy.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/portable-ssd-as-the-offline-backup-copy.html</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>A portable SSD is an excellent choice for keeping a secure, offline backup of your important files. Unlike online backups that are vulnerable to cyber attacks, a portable SSD can be stored safely away, disconnected from your computer and any network. This article will guide you t</description>
+    <enclosure url="https://paxeko530.github.io/img/portable-ssd-as-the-offline-backup-copy.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Do you need a footrest under your desk? A check to run before you buy</title>
+    <link>https://paxeko530.github.io/posts/under-desk-footrest-do-you-need-one.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/under-desk-footrest-do-you-need-one.html</guid>
+    <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    <category>Home Office</category>
+    <description>Before you consider adding a footrest under your desk, take a moment to assess your current setup. Sit in your usual posture and observe whether your feet rest comfortably on the floor without the chair edge pressing into your thighs. If your feet dangle or your knees are bent at</description>
+    <enclosure url="https://paxeko530.github.io/img/under-desk-footrest-do-you-need-one.png" type="image/png"/>
+  </item>
   <item>
     <title>Is a desk mat worth it? What goes under your keyboard and mouse</title>
     <link>https://paxeko530.github.io/posts/desk-mat-for-a-home-office-worth-it.html</link>
@@ -247,32 +274,5 @@
     <category>Freelance Tools</category>
     <description>As a freelancer, managing your time effectively is crucial for maintaining productivity and meeting deadlines. One highly effective method for doing this is time blocking, a scheduling technique that involves assigning specific blocks of time to different tasks or activities. Unl</description>
     <enclosure url="https://paxeko530.github.io/img/time-blocking-for-freelancers-that-actually-works.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Organizing a small home office on a budget</title>
-    <link>https://paxeko530.github.io/posts/organizing-a-small-home-office-on-a-budget.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/organizing-a-small-home-office-on-a-budget.html</guid>
-    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Home Office</category>
-    <description>Creating a functional and comfortable home office doesn&#39;t have to break the bank. Whether you&#39;re a freelancer, a remote worker, or someone who needs a dedicated space for work from home, setting up a small home office on a budget can be a rewarding and efficient process. This gui</description>
-    <enclosure url="https://paxeko530.github.io/img/organizing-a-small-home-office-on-a-budget.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Prompt basics for getting useful answers from a local LLM</title>
-    <link>https://paxeko530.github.io/posts/prompt-basics-for-getting-useful-local-llm-answers.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/prompt-basics-for-getting-useful-local-llm-answers.html</guid>
-    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Self-Hosting &amp; Local AI</category>
-    <description>Prompting is a critical aspect of interacting with a local Large Language Model (LLM) like Ollama. The effectiveness of the responses you receive largely depends on how well you craft your prompts. Whether you&#39;re looking to generate creative content, get answers to technical ques</description>
-    <enclosure url="https://paxeko530.github.io/img/prompt-basics-for-getting-useful-local-llm-answers.png" type="image/png"/>
-  </item>
-  <item>
-    <title>Setting freelance payment terms that actually get honored</title>
-    <link>https://paxeko530.github.io/posts/setting-freelance-payment-terms-that-stick.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/setting-freelance-payment-terms-that-stick.html</guid>
-    <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    <category>Freelance Tools</category>
-    <description>As a freelancer, setting clear payment terms is crucial to maintaining a healthy business relationship with your clients. However, defining these terms is only the first step. Ensuring that clients adhere to them is equally important. In this article, we will explore strategies f</description>
-    <enclosure url="https://paxeko530.github.io/img/setting-freelance-payment-terms-that-stick.png" type="image/png"/>
   </item>
 </channel></rss>
