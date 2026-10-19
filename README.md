@@ -7,7 +7,7 @@ Straight-talking guides on the tools, gear, and setups that make independent wor
 <p align="center">
 <a href="https://paxeko530.github.io/"><img alt="Visit the site" src="https://img.shields.io/badge/Visit_the_site-0b62ff?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 &nbsp;
-<a href="https://paxeko530.github.io/posts/home-office-comfort-audit-in-fifteen-minutes.html"><img alt="Read a guide" src="https://img.shields.io/badge/Read_a_guide-16181d?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+<a href="https://paxeko530.github.io/posts/keyboard-wrist-rest-what-it-does-and-does-not.html"><img alt="Read a guide" src="https://img.shields.io/badge/Read_a_guide-16181d?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
 ---
@@ -16,13 +16,12 @@ Straight-talking guides on the tools, gear, and setups that make independent wor
 
 <table><tr>
 <td width="33%" valign="top"><a href="https://paxeko530.github.io/category-freelancer.html"><img src="img/portable-ssd-as-the-offline-backup-copy.png" width="100%" alt="Freelance Tools"></a><br><br><strong><a href="https://paxeko530.github.io/category-freelancer.html">Freelance Tools</a></strong><br><sub>Software, cash flow, contracts, invoicing</sub></td>
-<td width="33%" valign="top"><a href="https://paxeko530.github.io/category-escritorio.html"><img src="img/home-office-comfort-audit-in-fifteen-minutes.png" width="100%" alt="Home Office"></a><br><br><strong><a href="https://paxeko530.github.io/category-escritorio.html">Home Office</a></strong><br><sub>Ergonomics, lighting, remote-work productivity</sub></td>
+<td width="33%" valign="top"><a href="https://paxeko530.github.io/category-escritorio.html"><img src="img/keyboard-wrist-rest-what-it-does-and-does-not.png" width="100%" alt="Home Office"></a><br><br><strong><a href="https://paxeko530.github.io/category-escritorio.html">Home Office</a></strong><br><sub>Ergonomics, lighting, remote-work productivity</sub></td>
 <td width="33%" valign="top"><a href="https://paxeko530.github.io/category-ia.html"><img src="img/home-network-basics-for-self-hosting.png" width="100%" alt="Self-Hosting &amp; Local AI"></a><br><br><strong><a href="https://paxeko530.github.io/category-ia.html">Self-Hosting &amp; Local AI</a></strong><br><sub>Home servers, NAS, mini PCs, open-source models</sub></td>
 </tr></table>
 
 ## Latest guides
 
-- **[A 15-minute comfort audit for your home office desk](https://paxeko530.github.io/posts/home-office-comfort-audit-in-fifteen-minutes.html)** &nbsp;<sub>Home Office</sub>
 - **[Do keyboard wrist rests help? What they do, what they do not, and who can skip them](https://paxeko530.github.io/posts/keyboard-wrist-rest-what-it-does-and-does-not.html)** &nbsp;<sub>Home Office</sub>
 - **[A portable SSD as your offline backup copy: setup and a monthly restore test](https://paxeko530.github.io/posts/portable-ssd-as-the-offline-backup-copy.html)** &nbsp;<sub>Freelance Tools</sub>
 - **[Do you need a footrest under your desk? A check to run before you buy](https://paxeko530.github.io/posts/under-desk-footrest-do-you-need-one.html)** &nbsp;<sub>Home Office</sub>
@@ -34,6 +33,7 @@ Straight-talking guides on the tools, gear, and setups that make independent wor
 - **[Home network basics before you start self-hosting](https://paxeko530.github.io/posts/home-network-basics-for-self-hosting.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
 - **[A laptop stand for your home office desk: what else you need to buy with it](https://paxeko530.github.io/posts/laptop-stand-for-a-home-office-desk.html)** &nbsp;<sub>Home Office</sub>
 - **[Monitoring uptime and health for a home server](https://paxeko530.github.io/posts/monitoring-uptime-for-a-home-server.html)** &nbsp;<sub>Self-Hosting & Local AI</sub>
+- **[Standing desk converters: are they worth it for a home office?](https://paxeko530.github.io/posts/standing-desk-converter-worth-it.html)** &nbsp;<sub>Home Office</sub>
 
 <p align="right"><a href="https://paxeko530.github.io/"><strong>See all &rarr;</strong></a></p>
 

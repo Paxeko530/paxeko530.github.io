@@ -4,16 +4,7 @@
   <link>https://paxeko530.github.io/</link>
   <description>Practical guides for people who work for themselves.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 19 Oct 2026 05:22:17 GMT</lastBuildDate>
-  <item>
-    <title>A 15-minute comfort audit for your home office desk</title>
-    <link>https://paxeko530.github.io/posts/home-office-comfort-audit-in-fifteen-minutes.html</link>
-    <guid isPermaLink="true">https://paxeko530.github.io/posts/home-office-comfort-audit-in-fifteen-minutes.html</guid>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-    <category>Home Office</category>
-    <description>Your home office desk is your command center for productivity, but it can also be a source of discomfort and even health issues if it&#39;s not set up correctly. The good news is that with a little bit of attention and some simple adjustments, you can create a comfortable workspace t</description>
-    <enclosure url="https://paxeko530.github.io/img/home-office-comfort-audit-in-fifteen-minutes.png" type="image/png"/>
-  </item>
+  <lastBuildDate>Mon, 19 Oct 2026 05:23:33 GMT</lastBuildDate>
   <item>
     <title>Do keyboard wrist rests help? What they do, what they do not, and who can skip them</title>
     <link>https://paxeko530.github.io/posts/keyboard-wrist-rest-what-it-does-and-does-not.html</link>
@@ -274,5 +265,14 @@
     <category>Self-Hosting &amp; Local AI</category>
     <description>Running larger language models (LLMs) locally can be a game changer for productivity and privacy, but it often comes with the challenge of high memory requirements. If your system is struggling to run these models smoothly, a RAM upgrade might be the solution you&#39;re looking for. </description>
     <enclosure url="https://paxeko530.github.io/img/ram-upgrade-for-running-larger-local-llms.png" type="image/png"/>
+  </item>
+  <item>
+    <title>Time blocking for freelancers: a system that actually works</title>
+    <link>https://paxeko530.github.io/posts/time-blocking-for-freelancers-that-actually-works.html</link>
+    <guid isPermaLink="true">https://paxeko530.github.io/posts/time-blocking-for-freelancers-that-actually-works.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+    <category>Freelance Tools</category>
+    <description>As a freelancer, managing your time effectively is crucial for maintaining productivity and meeting deadlines. One highly effective method for doing this is time blocking, a scheduling technique that involves assigning specific blocks of time to different tasks or activities. Unl</description>
+    <enclosure url="https://paxeko530.github.io/img/time-blocking-for-freelancers-that-actually-works.png" type="image/png"/>
   </item>
 </channel></rss>
